@@ -22,4 +22,4 @@ All projects have been done using java as platform.
 ![ScreenShot](/assets/images/p3-AddingExcepandTest-DragonCave.png)
 
 * ### Project4: Adding Exception and Testing to Project2
-![ScreenShot](/assets/images/p4-Testing-p1.png
+![ScreenShot](/assets/images/p4-Testing-p1.png)
