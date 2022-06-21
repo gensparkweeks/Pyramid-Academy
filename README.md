@@ -1,2 +1,3 @@
 # Pyramid-Academy
-This is my repo.
+
+This repor contains several projects done during the training at GenSpark.
