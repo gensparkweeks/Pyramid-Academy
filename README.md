@@ -1,13 +1,13 @@
 # Pyramid-Academy
 
-A GenSpark repository projects. 
+### A GenSpark repository projects. 
 ##### Version 1.0
 
-## Welcome to the official repository of Pyramid Academy
+## Welcome to Projects training at Pyramid Academy
 
 This repo contains several projects done during the training at GenSpark.
 
-## Devepment Environment
+## Development Environment
 All projects have been done using java as platform.
 
 ## These are the projects and a brief description waht they are about
@@ -18,8 +18,8 @@ All projects have been done using java as platform.
 * ### Project2: Guess the Number
 ![ScreenShot](/assets/images/p2-GuesstheNumber.png)
 
-* ### Project2: Guess the Number
+* ### Project3: Adding Exception and Testing to Project1
 ![ScreenShot](/assets/images/p3-AddingExcepandTest-DragonCave.png)
 
-* ### Project2: Guess the Number
+* ### Project4: Adding Exception and Testing to Project2
 ![ScreenShot](/assets/images/p4-Testing p1.png)
