@@ -1,4 +1,4 @@
-![Pyramid](/assets/images/PyramidAcademy.png "Pyramid Academy")
+![Pyramid](/assets/images/PyramidAcademy1.png "Pyramid Academy")
 ### A GenSpark repository projects. 
 ##### Version 1.0
 
