@@ -1,25 +1,25 @@
-# Pyramid-Academy
-
+![Pyramid](/assets/images/p1-DragonCave.png "Pyramid Academy")
 ### A GenSpark repository projects. 
 ##### Version 1.0
 
-## Welcome to Projects training at Pyramid Academy
+### Welcome to Projects training at Pyramid Academy
 
 This repo contains several projects done during the training at GenSpark.
 
-## Development Environment
+### Development Environment
 All projects have been done using java as platform.
 
-## These are the projects and a brief description waht they are about
-* ### Project1: Drangon Cave
-![ScreenShot](/assets/images/p1-DragonCave.png)
-![banner-readme](/assets/images/p1-DragonCave.png)
+![Drangon-Cave](/assets/images/p1-DragonCave.png " Drangon Cave")
+This project is about the  site is using `Drangon Cave` game.
 
-* ### Project2: Guess the Number
-![ScreenShot](/assets/images/p2-GuesstheNumber.png)
 
-* ### Project3: Adding Exception and Testing to Project1
-![ScreenShot](/assets/images/p3-AddingExcepandTest-DragonCave.png)
+![ScreenShot](/assets/images/p2-GuesstheNumber.png "Guess the Number")
+This project is about the `Guess the Number` game.
 
-* ### Project4: Adding Exception and Testing to Project2
-![ScreenShot](/assets/images/p4-Testing-p1.png)
+
+![Exception-Test-P1](/assets/images/p3-AddingExcepandTest-DragonCave.png "Exception and Testing to Project1")
+This project is about `Exception and Testing` to the Drangon Cave game.
+
+
+![Exception-Test-P2](/assets/images/p4-Testing-p1.png "Exception and Testing to Project1")
+This project is about `Exception and Testing` to the Guess the Number game.
