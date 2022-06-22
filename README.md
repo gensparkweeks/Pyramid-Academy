@@ -39,7 +39,7 @@ a blank on the page for each letter in the word. The second player then tries to
 in the word.
 
 
-## Here are some web assignments done before these projects:
+### Here are some web assignments done before these projects:
 
 * An html assignment for a [customer registration](https://github.com/gensparkweeks/01-CustomerRegistrationForm).
 * An html + javascrip assignment for transfering data [using LocalStorage](https://github.com/gensparkweeks/02-Transfering-data-js).
