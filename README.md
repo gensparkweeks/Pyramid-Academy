@@ -39,3 +39,8 @@ a blank on the page for each letter in the word. The second player then tries to
 in the word.
 
 
+## Here are some web assignments done before these projects:
+
+* A html assigment for a [customer registratioin](https://github.com/gensparkweeks/01-CustomerRegistrationForm).
+* A html + javascrip assigment for transfering data using LocalStorage [transfering data LS](https://github.com/gensparkweeks/02-Transfering-data-js).
+* A html + javascrip - react assigment for transfering data using URL [transfering data URL](https://github.com/gensparkweeks/03-transfering-data-react).
