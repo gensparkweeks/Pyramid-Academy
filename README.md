@@ -1,13 +1,9 @@
 ![Pyramid](/assets/images/PyramidAcademy1.png "Pyramid Academy")
-### A GenSpark repository projects. 
+### Welcome to a GenSpark repository training projects. 
 ##### Version 1.0
 
-### Welcome to Projects training at Pyramid Academy
-
-This repo contains several projects done during the training at GenSpark.
-
-### Development Environment
-All projects have been done using __java__ as platform.
+* This repo contains several projects done during the training at GenSpark.
+* All projects have been done using __java__ as platform.
 
 ![Project1](/assets/images/p1-DragonCave.png " Drangon Cave")
 > This project tries to create a simple version of the `Drangon Cave` game.
