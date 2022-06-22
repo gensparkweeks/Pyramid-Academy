@@ -41,6 +41,6 @@ in the word.
 
 ## Here are some web assignments done before these projects:
 
-* A html assigment for a [customer registratioin](https://github.com/gensparkweeks/01-CustomerRegistrationForm).
-* A html + javascrip assigment for transfering data using LocalStorage [transfering data LS](https://github.com/gensparkweeks/02-Transfering-data-js).
-* A html + javascrip - react assigment for transfering data using URL [transfering data URL](https://github.com/gensparkweeks/03-transfering-data-react).
+* A html assignment for a [customer registration](https://github.com/gensparkweeks/01-CustomerRegistrationForm).
+* A html + javascrip assignment for transfering data [using LocalStorage](https://github.com/gensparkweeks/02-Transfering-data-js).
+* A html + javascrip + react assignment for transfering data [using URL](https://github.com/gensparkweeks/03-transfering-data-react).
