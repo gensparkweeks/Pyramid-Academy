@@ -14,8 +14,10 @@ This project tries to create a simple version of the `Drangon Cave` game.
 
 
 ![ScreenShot](/assets/images/p2-GuesstheNumber.png "Guess the Number")
-This project is about the `Guess the Number` game. Numbers are generated from 0 to 20. 
-The user has 6 And the user has __six__ attempts to guess the __random__ number.
+> This project is about the `Guess the Number` game. 
+>
+>> Numbers are generated from 0 to 20. The user has 6 And the user has __six__ 
+attempts to guess the __random__ number.
 
 
 ![Exception-Test-P1](/assets/images/p3-AddingExcepandTest-DragonCave.png "Exception and Testing to Project1")
