@@ -37,6 +37,7 @@ whether the number is to high or too low. Ths user has six tries.
 >> Hangman is a game for two people in wich on _player_ (in our case the computer) thinks of a word and then draws
 a blank on the page for each letter in the word. The second player then tries to guess letter thet might be
 in the word.
+
 >> We add `unit test` to this project.
 
 
