@@ -15,19 +15,22 @@ public class Project2 {
         int secretNumber = (int)(Math.random() * 20);
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Hello! What's your name? ");
+        System.out.print("Hello! What's your name? ");
         String name = input.next();
-        System.out.println("Welcome, "+ name+", I am thinking of a number between 1 and 20.");
+        System.out.println("Welcome, "+ name+", I am thinking of a number between 1 and 20 in six tries.");
 
         do{
-
-            System.out.println( "\033[0;1m" + "Take a guess. ");
-            try{
-                guessTry = Integer.parseInt(input.next());
-            }catch (Exception e){
-                System.out.println("It wasn't a number!!!");
-                return "Exception Caught: Number Format Exception.";
+            boolean valid = false;
+            while (!valid){
+                try{
+                    System.out.println( "\033[0;1m" + "Take a guess: ");
+                    guessTry = Integer.parseInt(input.next());
+                    valid = true;
+                }catch (Exception e){
+                    System.out.println("It wasn't a number!!!");
+                }
             }
+
             guessCount++;
 
             if (guessTry == secretNumber){
