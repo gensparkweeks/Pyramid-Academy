@@ -23,10 +23,10 @@ public class UtilsProject5 {
         }
 
         //Printing miss letters
-        System.out.println("\n\nMissed letters: "+ missedLetter+"\n");
+        System.out.println("\n\nMissed letters: "+ missedLetter);
 
         //Printing guessed letters
-        System.out.println(guessedLetter+"\n");
+        System.out.println(guessedLetter);
 
     }
 
@@ -56,7 +56,7 @@ public class UtilsProject5 {
             len--;
         }
 
-        System.out.println("\n\nMissed letters: "+ missedLetter+"\n");
+        System.out.println("\nMissed letters: "+ missedLetter+"\n");
 
         len = randomLetter.length();
         while(len > 0){

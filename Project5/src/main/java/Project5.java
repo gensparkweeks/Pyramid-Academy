@@ -58,7 +58,7 @@ public class Project5 {
             }
 
             if (!randomLetter.equals(guessedLetter) && randomLetter.length() == missedLetter.length()){
-                System.out.println("You loss... The letter is: " + randomLetter);
+                System.out.println("You did not guess it... The letter is: " + randomLetter);
             }
 
             readLetter = util.readLetter("Do you wan to play again? (yes or not) ");
