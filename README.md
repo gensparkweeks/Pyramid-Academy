@@ -66,6 +66,14 @@ in the word.
 
 >> We added `unit test` to this project.
 
+![Project8](/assets/images/p8-HumansVSGoblinsRedux.png "Humans VS Goblins Redux")
+> This project is based on the `Humans VS Goblins` game in Project6. Now adding GUI.
+> Here are some conditions:
+> 
+>> Add a gui to the Humans vs Goblins project.
+>> Use a GUI of your choice.
+>> Add unt testing, and Exception handling where appropiate.
+
 ### Here are some web assignments done before these projects:
 
 * An html assignment for a [customer registration](https://github.com/gensparkweeks/01-CustomerRegistrationForm).
