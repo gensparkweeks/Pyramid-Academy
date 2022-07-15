@@ -25,32 +25,12 @@ public class UtilHangMan {
         return word.contains(letterGuess);
     }
 
-    public void printHangedMan(int wrongCount){
+    public void printHangedMan(ArrayList<String> ListArts, int count){
         System.out.println("");
-        System.out.println(" -------");
-        System.out.println(" |     |");
-
-        if (wrongCount >= 1){
-            System.out.println(" O");
+        for (int i = 0; i < count; i++){
+            System.out.println(ListArts.get(i));
         }
-
-        if (wrongCount >= 2){
-            System.out.print("\\");
-            if (wrongCount >= 3){
-                System.out.println(" /");
-            }else System.out.println(" ");
-        }
-
-        if (wrongCount >= 4){
-            System.out.println(" |");
-        }
-
-        if (wrongCount >= 5){
-            System.out.print("/");
-            if (wrongCount >= 6){
-                System.out.println(" \\");
-            }else System.out.println(" ");
-        }
+        System.out.println("You have "+(ListArts.size() - count)+" try left.");
     }
 
 

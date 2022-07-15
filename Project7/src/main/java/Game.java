@@ -12,14 +12,23 @@ public class Game {
 
         //Set the read of the file using Scanner
         Scanner scanner = new Scanner(new File("src/main/resources/letters.txt"));
+        Scanner readArt = new Scanner(new File("src/main/resources/art.txt"));
         Scanner keyboard = new Scanner(System.in);
         int wrongCount = 0;
         ArrayList<String> letterLines = new ArrayList<>();
+        ArrayList<String> listArts = new ArrayList<>();
 
         //Creating the Array to read all letters
         while(scanner.hasNext()){
             letterLines.add(scanner.nextLine());
         }
+        scanner.close();
+
+        //Creating the Array to read all arts
+        while(readArt.hasNext()){
+            listArts.add(readArt.nextLine());
+        }
+        readArt.close();
 
         //Select the random word
         Random randWord = new Random();
@@ -30,14 +39,14 @@ public class Game {
 
         // While the player guess the word || the player consume the 6 times
         while(true){
-            util.printHangedMan(wrongCount);
-
             if (wrongCount >= 6){
                 System.out.println("You lose!");
                 System.out.println("The word was: "+ word);
                 break;
             }
-            util.printWordState(word, playerGuess);
+            if (wrongCount == 0){
+                util.printWordState(word, playerGuess);
+            }
 
             if (!util.getPlayerGuess(keyboard, word, playerGuess)){
                 wrongCount++;
@@ -47,13 +56,9 @@ public class Game {
                 System.out.println("\nYou win!");
                 break;
             }
-            if (playerGuess.size() >= word.length() / 2){
-                System.out.println("\nIt is possible you already got the word, type it: ");
-                if (keyboard.nextLine().equals(word)){
-                    System.out.println("\nYou win!");
-                    break;
-                }else System.out.println("Nope! continue guessing...");
-            }
+
+            util.printHangedMan(listArts, wrongCount);
+
         }
     }
 }
