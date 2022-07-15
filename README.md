@@ -70,9 +70,9 @@ in the word.
 > This project is based on the `Humans VS Goblins` game in Project6. Now adding GUI.
 > Here are some conditions:
 > 
->> Add a gui to the Humans vs Goblins project.
+>> Adding a GUI to the Humans vs Goblins project.
 >> Use a GUI of your choice.
->> Add unt testing, and Exception handling where appropiate.
+>> Add unit testing, and exception handling where appropiate.
 
 ### Here are some web assignments done before these projects:
 
