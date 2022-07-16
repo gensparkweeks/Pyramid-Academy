@@ -66,7 +66,7 @@ in the word.
 
 >> We added `unit test` to this project.
 
-![Project8](/assets/images/p8-HumansVSGoblinsRedux.png "Humans VS Goblins Redux")
+![Project8](/assets/images/p8-HumansVSGoblinsRedux1.png "Humans VS Goblins Redux")
 > This project is based on the `Humans VS Goblins` game in Project6. Now adding GUI.
 > Here are some conditions:
 > 
