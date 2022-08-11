@@ -67,8 +67,8 @@ in the word.
 >> We added `unit test` to this project.
 
 <img src="/assets/images/p8-HumansVSGoblinsRedux.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
-> This project is based on the `Humans VS Goblins` game in Project6. Now adding GUI.
-> Here are some conditions:
+>> This project is based on the [`Humans VS Goblins`](https://github.com/gensparkweeks/Pyramid-Academy/tree/main/Project8) game in Project6. Now adding GUI.
+>> Here are some conditions:
 > 
 >> Adding a GUI to the Humans vs Goblins project.
 >> Use a GUI of your choice.
