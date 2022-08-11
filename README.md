@@ -26,7 +26,7 @@ whether the number is to high or too low. Ths user has six tries.
 
 
 ![Project4](/assets/images/p4-Testing-p1.png "Exception and Testing to Project1")
-> This project is about adding [Exception and Testing](https://github.com/gensparkweeks/Pyramid-Academy/tree/main/Project8) to the _Guess the Number_ game.
+> This project is about adding [Exception and Testing](https://github.com/gensparkweeks/Pyramid-Academy/tree/main/Project4) to the _Guess the Number_ game.
 > 
 >> Going back to the _Guess the Number_ game, so we add `unit test` to this project.
 
@@ -66,7 +66,7 @@ in the word.
 
 >> We added `unit test` to this project.
 
-<img src="/assets/images/p8-HumansVSGoblinsRedux.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+![Project8](/assets/images/p8-HumansVSGoblinsRedux.png "Humans VS Goblins Redux")
 >> This project is based on the [Humans VS Goblins](https://github.com/gensparkweeks/Pyramid-Academy/tree/main/Project8) game in Project6. Now adding GUI.
 >> Here are some conditions:
 > 
