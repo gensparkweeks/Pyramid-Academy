@@ -1,9 +1,10 @@
 import java.awt.*;
 
-public class Goblin extends Rectangle {
+public class Treasure extends Rectangle {
 
     Color color;
-    Goblin(int x, int y, int width, int height, Color color){
+
+    Treasure(int x, int y, int width, int height, Color color){
         this.x = x;
         this.y = y;
         this.width = width;
